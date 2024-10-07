@@ -1,0 +1,11 @@
+a:link{
+    color: brown;
+}
+a:visited{
+    color: aquamarine;
+}
+
+a{
+    display: flex;
+    flex-direction: column;
+}
